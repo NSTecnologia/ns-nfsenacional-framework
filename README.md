@@ -28,9 +28,8 @@ Você poderá utilizar a função **emitirNFSeSincrono** da classe NSNFSeNaciona
 
 ##### Parâmetros:
 
-**ATENÇÃO:** o **token** também é um parâmetro necessário e você deve, primeiramente, defini-lo na classe **NSNFSeNacional.cs**, como pode ver abaixo:
+**ATENÇÃO:** o **token** também é um parâmetro necessário e você deve, primeiramente, defini-lo na classe **NSNFSeNacional.cs**.
 
-![Screenshot_1](https://user-images.githubusercontent.com/54732019/75368597-c157f480-58a0-11ea-829d-e0d1aaf77890.png)
 
 Parametros     | Descrição
 :-------------:|:-----------
